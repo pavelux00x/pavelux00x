@@ -1,5 +1,4 @@
 - 👋 I'm Pavelux, Pavel
-- 👀 I’m interested in you
 - 💞 discord: .pavelito
 - 📫 pavel.filingeri
 

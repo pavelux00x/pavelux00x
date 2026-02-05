@@ -11,6 +11,7 @@ DevOps Engineer at **Devoteam** with a passion for automation.
 
 - **F5 Automation Framework** - Developing automated deployment and configuration tools for F5 load balancers
 - **HashiCorp Vault Secret Sync** - Building automation tools for importing and synchronizing secrets across environments
+- **Naas for Netapp / NFS Automation** - Creating scripts to automate Netapp storage management and NFS configurations
 
 
 ## 🛠️ Technologies & Tools
@@ -25,8 +26,7 @@ DevOps Engineer at **Devoteam** with a passion for automation.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.hashicorp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/> </a>
+<a href="https://www.f5.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/f5/f5-icon.svg" alt="f5" width="40" height="40"/> </a>
+<a href="https://www.netapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netapp/netapp-icon.svg" alt="netapp" width="40" height="40"/> </a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavelux00x" alt="pavelux00x" /></a> </p>

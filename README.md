@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-DevOps Engineer at **Devoteam** with a passion for automation.
+DevOps Engineer at **Devoteam** with a passion for automation and scripting.
 
 ## 🔧 Current Projects
 
@@ -27,6 +27,4 @@ DevOps Engineer at **Devoteam** with a passion for automation.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.hashicorp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/> </a>
-<a href="https://www.f5.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/f5/f5-icon.svg" alt="f5" width="40" height="40"/> </a>
-<a href="https://www.netapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netapp/netapp-icon.svg" alt="netapp" width="40" height="40"/> </a>
 </p>
